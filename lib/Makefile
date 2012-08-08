@@ -25,6 +25,5 @@ install:
 clean:
 	@echo "cleaning..."
 	@rm *.o
-	@rm *.so
 	@rm libtpw_mysql.a
 	@echo "success cleaned!"
